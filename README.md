@@ -1,150 +1,239 @@
-# Olá, eu sou Luis Felipe!
+<div align="center">
 
-### 💻 Desenvolvedor Web/Front End em formação
+# 👨‍💻 Luis Felipe Reis
 
-🎓 Estudante de Ciência e Tecnologia
-🌐 Focado atualmente em Desenvolvimento Web
-📚 Estudando HTML, CSS, JavaScript, Python e Git
-🚀 Transformando estudos em projetos práticos
+### `Desenvolvedor Web em formação`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+e+Tecnologia;Apaixonado+por+Desenvolvimento+Web;HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Sempre+aprendendo%2C+sempre+construindo." alt="Typing SVG" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/luisfelipereis205)
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/luisfelipereis205">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de Ciência e Tecnologia e estou construindo minha trajetória na área de tecnologia.
+Olá! Eu sou **Luis Felipe**, estudante de **Ciência e Tecnologia** e desenvolvedor web em formação.
 
-Atualmente, meu foco principal está no desenvolvimento web, especialmente na criação de interfaces utilizando HTML, CSS e JavaScript.
+Atualmente estou direcionando meus estudos para **Desenvolvimento Web**, buscando transformar os conhecimentos adquiridos em projetos reais.
 
-Também estou estudando Python, lógica de programação, Git e GitHub, buscando transformar cada conteúdo aprendido em projetos práticos.
+Gosto de entender como as coisas funcionam por trás do código e, principalmente, de aprender **colocando a mão na massa**.
+
+Meu objetivo é evoluir constantemente, construir projetos cada vez melhores e conquistar minha primeira oportunidade profissional na área de tecnologia.
 
 ---
 
-## 🛠️ Tecnologias
+## ⚡ Atualmente
 
-### 🌐 Desenvolvimento Web
+```text
+🎓 Ciência e Tecnologia
+💻 Desenvolvimento Web
+📚 HTML • CSS • JavaScript • Python
+🔧 Git • GitHub • VS Code
+🚀 Construindo projetos práticos
+🌱 Aprendendo algo novo todos os dias
+```
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+---
+
+# 🛠️ Tecnologias
+
+<div align="center">
+
+### 🌐 Front-end
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 ### 🐍 Programação
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python" />
 
 ### 🔧 Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
 
 ---
 
-## 🚀 Projetos em destaque
+# 🚀 Projetos em destaque
+
+<div align="center">
+
+|          Projeto         | Descrição                           |       Tecnologias       |
+| :----------------------: | :---------------------------------- | :---------------------: |
+|  💈 **Menor Barbearia**  | Landing page para barbearia         |        HTML • CSS       |
+| 🏝️ **Slider Turístico** | Interface de destinos turísticos    |     HTML • CSS • JS     |
+|     ⚖️ **Peso Ideal**    | Calculadora utilizando JavaScript   |     HTML • CSS • JS     |
+|  📝 **CRUD de Tarefas**  | Sistema de gerenciamento de tarefas | PHP • MySQL • Bootstrap |
+
+</div>
 
 ### 💈 Menor Barbearia
 
-Website desenvolvido para praticar estruturação de páginas, estilização e responsividade.
+Projeto desenvolvido para praticar **estruturação de páginas, tipografia, cores, responsividade e organização visual**.
 
-**Tecnologias:** HTML • CSS
+> **"Aqui é régua, não é sorte."**
+
+🔗 [Ver projeto](SEU_LINK)
 
 ---
 
 ### 🏝️ Slider Turístico
 
-Projeto de interface com cards e slider para apresentar destinos turísticos.
+Projeto desenvolvido para praticar criação de interfaces, cards, responsividade e interação com elementos da página.
 
-**Tecnologias:** HTML • CSS • JavaScript
+🔗 [Ver projeto](SEU_LINK)
 
 ---
 
 ### ⚖️ Calculadora de Peso Ideal
 
-Projeto desenvolvido para praticar JavaScript, manipulação de elementos HTML e interação com o usuário.
+Projeto desenvolvido durante meus estudos de JavaScript para praticar **entrada de dados, cálculos e manipulação do DOM**.
 
-**Tecnologias:** HTML • CSS • JavaScript
-
----
-
-### 📝 CRUD de Tarefas
-
-Projeto para praticar operações de criação, leitura, atualização e exclusão de dados.
-
-**Tecnologias:** PHP • MySQL • Bootstrap
+🔗 [Ver projeto](SEU_LINK)
 
 ---
 
-## 📚 Atualmente estudando
-
-```text
-HTML / CSS          ████████████████████░░  90%
-JavaScript          ███████████████░░░░░░  70%
-Python              ████████████░░░░░░░░░  60%
-Git / GitHub        ███████████████░░░░░░  70%
-Lógica              ████████████████░░░░░  80%
-```
-
----
-
-## 📊 GitHub Stats
+# 📚 O que estou estudando
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipereis205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+```text
+HTML & CSS
+████████████████████░░
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipereis205&layout=compact&langs_count=8&theme=tokyonight"/>
+JavaScript
+███████████████░░░░░░
+
+Python
+████████████░░░░░░░░
+
+Git & GitHub
+███████████████░░░░░
+
+Lógica de Programação
+████████████████░░░░
+```
+
+</div>
+
+> As barras acima representam apenas uma visão visual dos assuntos que estou estudando, não uma porcentagem formal de domínio.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisfelipereis205&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipereis205&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
 
 </div>
 
 ---
 
-## 🔥 Streak
+# 🔥 Consistência
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=luisfelipereis205&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=luisfelipereis205&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Minha jornada
+# 📈 Minha evolução
 
 ```text
-2024 ────────────────► 2025 ────────────────► 2026
-  │                       │                       │
-  ▼                       ▼                       ▼
-Lógica                 Python                 JavaScript
-HTML/CSS               Git                    Projetos Web
-Primeiros projetos     GitHub                 Desenvolvimento
+        APRENDER
+           │
+           ▼
+      ┌──────────┐
+      │ ESTUDAR  │
+      └────┬─────┘
+           │
+           ▼
+      ┌──────────┐
+      │  PRATICAR│
+      └────┬─────┘
+           │
+           ▼
+      ┌──────────┐
+      │  PROJETAR│
+      └────┬─────┘
+           │
+           ▼
+      ┌──────────┐
+      │  PUBLICAR│
+      └────┬─────┘
+           │
+           ▼
+      ┌──────────┐
+      │ EVOLUIR  │
+      └──────────┘
+           │
+           └──────────────► 🔁
 ```
 
 ---
 
-## 🎯 Objetivos
+# 🎯 Próximos objetivos
 
-* [ ] Aprofundar meus conhecimentos em JavaScript
-* [ ] Aprender JavaScript moderno
-* [ ] Desenvolver projetos maiores
+* [ ] Aprofundar JavaScript
+* [ ] Dominar manipulação do DOM
+* [ ] Melhorar responsividade
+* [ ] Criar projetos web mais completos
+* [ ] Aprofundar Git e GitHub
 * [ ] Aprender um framework front-end
-* [ ] Melhorar meus conhecimentos em Git
+* [ ] Desenvolver projetos com APIs
 * [ ] Construir um portfólio profissional
 * [ ] Conseguir uma oportunidade na área de tecnologia
 
 ---
 
-## 📫 Vamos conversar?
-
-Se quiser trocar uma ideia sobre programação, desenvolvimento web ou tecnologia, fique à vontade para entrar em contato.
-
-<br>
+# 💡 Filosofia
 
 <div align="center">
 
-### 🚀 Sempre aprendendo. Sempre construindo.
+> **"Não preciso saber tudo. Preciso continuar aprendendo."**
+
+<br>
+
+`Código → Erro → Pesquisa → Tentativa → Aprendizado → Evolução`
+
+</div>
+
+---
+
+# 📫 Vamos nos conectar?
+
+<div align="center">
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/luisfelipereis205">
+<img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=luisfelipereis205&style=flat-square&color=blue" alt="Profile views"/>
+
+<br><br>
+
+### 🚀 Construindo hoje o desenvolvedor que quero ser amanhã.
 
 </div>
