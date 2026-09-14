@@ -1,70 +1,42 @@
 <div align="center">
 
-<a href="https://github.com/luisfelipereis205">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Luis%20Felipe%20Reis&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Front-end%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=68&descSize=17&descColor=8b949e"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Luis%20Felipe&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Front-end%20Developer%20%7C%20Computer%20Engineering&descAlignY=67&descSize=16&descColor=9CA3AF&color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+### Desenvolvedor Front-end
+
+Construo interfaces web e transformo ideias em experiências digitais.
 
 <br>
 
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff"/>
+<a href="https://github.com/luisfelipereis205">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" height="28">
 </a>
 &nbsp;
-<a href="https://github.com/luisfelipereis205">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff"/>
+<a href="https://www.linkedin.com/in/luis-felipe-reisdev/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" height="28">
 </a>
 
 </div>
 
 <br>
 
-## About
-
-I'm **Luis Felipe**, a **Front-end Developer** and **Computer Engineering student** focused on building modern, responsive and accessible web interfaces.
-
-I enjoy turning ideas into interfaces and learning through practical projects. My current focus is strengthening my JavaScript skills and building a solid foundation for professional development.
-
-```text
-Front-end Development
-JavaScript & DOM
-Responsive Interfaces
-Git & GitHub
-Programming Fundamentals
-```
-
 ---
-
-## Stack
 
 <div align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="30" alt="HTML5"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://cdn.simpleicons.org/css/1572B6" width="30" alt="CSS3"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" alt="JavaScript"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.python.org/">
-<img src="https://cdn.simpleicons.org/python/3776AB" width="30" alt="Python"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://git-scm.com/">
-<img src="https://cdn.simpleicons.org/git/F05032" width="30" alt="Git"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/">
-<img src="https://cdn.simpleicons.org/github/ffffff" width="30" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/">
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="30" alt="VS Code"/>
-</a>
+## `Front-end`
+
+**HTML5**  ·  **CSS3**  ·  **JavaScript**
+
+<br>
+
+<sub>
+Responsividade · Flexbox · Grid · DOM · Formulários · Acessibilidade
+</sub>
 
 </div>
 
@@ -72,105 +44,139 @@ Programming Fundamentals
 
 <div align="center">
 
-`HTML5` · `CSS3` · `JavaScript` · `Python` · `Git` · `GitHub` · `VS Code`
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="30" alt="HTML5">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css/1572B6" width="30" alt="CSS3">
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" alt="JavaScript">
 
 </div>
 
----
+<br><br>
 
-## Featured projects
+## Projetos
 
 <table>
 <tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Menor Barbearia
 
-A responsive landing page created to practice visual hierarchy, typography, color systems and responsive layouts.
+Uma landing page criada para uma barbearia, desenvolvida com identidade visual própria.
 
-**HTML · CSS**
+O projeto trabalha composição, tipografia, cores, estrutura semântica e responsividade.
+
+**HTML5 · CSS3**
+
+<br>
 
 <a href="SEU_LINK_MENOR_BARBEARIA">
-View project →
+<strong>Ver projeto ↗</strong>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Slider Turístico
 
-An interactive travel interface focused on cards, image presentation, responsive behavior and JavaScript interactions.
+Interface para apresentação de destinos turísticos utilizando navegação e elementos visuais.
 
-**HTML · CSS · JavaScript**
+Projeto desenvolvido para praticar layouts responsivos e interatividade no navegador.
 
-<a href="SEU_LINK_SLIDER">
-View project →
+**HTML5 · CSS3 · JavaScript**
+
+<br>
+
+<a href="https://luisfelipereis205.github.io/slider-turismo/">
+<strong>Ver projeto ↗</strong>
 </a>
 
 </td>
-
 </tr>
 
 <tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Calculadora de Peso Ideal
 
-A simple web application created to practice JavaScript logic, user input, calculations and DOM manipulation.
+Aplicação web para praticar lógica de programação, formulários e manipulação do DOM.
 
-**HTML · CSS · JavaScript**
+**HTML5 · CSS3 · JavaScript**
 
-<a href="SEU_LINK_PESO_IDEAL">
-View project →
+<br>
+
+<a href="https://calculadorapesoid.netlify.app/">
+<strong>Ver projeto ↗</strong>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### CRUD de Tarefas
+### Mais projetos
 
-Application created to practice data management and CRUD operations.
+Meu repositório reúne exercícios e projetos desenvolvidos durante minha evolução no desenvolvimento web.
 
-**PHP · MySQL · Bootstrap**
+<br>
 
-<a href="SEU_LINK_CRUD">
-View project →
+<a href="https://github.com/luisfelipereis205?tab=repositories">
+<strong>Explorar repositórios ↗</strong>
 </a>
 
 </td>
-
 </tr>
 </table>
 
+<br>
+
 ---
 
-## Currently learning
+## O que estou construindo agora
+
+Estou aprofundando minha base em **JavaScript**, principalmente:
+
+`DOM` · `Eventos` · `Funções` · `Lógica` · `Interação`
+
+Ao mesmo tempo, continuo evoluindo meus conhecimentos de **HTML e CSS**, buscando escrever interfaces mais organizadas, responsivas e acessíveis.
+
+Também estudo **Python** como parte da minha formação em programação.
+
+<br>
+
+---
 
 <div align="center">
 
-| Technology      | Focus                                    |
-| :-------------- | :--------------------------------------- |
-| JavaScript      | DOM, events, functions and modern syntax |
-| CSS             | Responsive layouts, Flexbox and Grid     |
-| Git             | Branches, commits and workflow           |
-| JavaScript APIs | Working with external data               |
-| Front-end       | Building complete interfaces             |
+## Ferramentas
+
+<img src="https://cdn.simpleicons.org/python/3776AB" width="27" alt="Python">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" width="27" alt="Git">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="27" alt="GitHub">
+
+<br><br>
+
+<sub>Python · Git · GitHub · VS Code</sub>
 
 </div>
 
----
+<br>
 
-## GitHub activity
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=luisfelipereis205&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true"/>
+### Engenharia da Computação
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipereis205&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
+**Universidade Federal do Maranhão — UFMA**
+
+<br>
+
+<sub>
+Estudando computação, desenvolvendo projetos e construindo minha carreira em tecnologia.
+</sub>
 
 </div>
 
@@ -178,63 +184,9 @@ View project →
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=luisfelipereis205&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
-
-</div>
-
----
-
-## Education
-
-**Computer Engineering**
-
-Currently building my academic foundation in computing, programming and software development while focusing professionally on Front-end Development.
-
----
-
-## Roadmap
-
-```text
-JavaScript
-    │
-    ├── DOM & Events
-    ├── ES6+
-    ├── APIs
-    └── Async JavaScript
-           │
-           ▼
-    Front-end Framework
-           │
-           ▼
-    Larger Applications
-           │
-           ▼
-    Professional Development
-```
-
----
-
-## Contact
-
-<div align="center">
-
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-58a6ff?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/luisfelipereis205?tab=repositories">
+<img src="https://img.shields.io/badge/Explorar%20meus%20projetos-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explorar meus projetos">
 </a>
-
- 
-
-<a href="https://github.com/luisfelipereis205">
-<img src="https://img.shields.io/badge/GitHub-Profile-30363d?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=luisfelipereis205&style=flat-square&label=profile+views&color=58a6ff"/>
-
-<br><br>
-
-<sub>Building interfaces. Learning every day.</sub>
 
 </div>
 
@@ -242,6 +194,6 @@ JavaScript
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0D1117"/>
 
 </div>
