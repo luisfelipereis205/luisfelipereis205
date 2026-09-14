@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Luis Felipe!
+# Olá, eu sou Luis Felipe!
 
-### 💻 Desenvolvedor Web em formação
+### 💻 Desenvolvedor Web/Front End em formação
 
 🎓 Estudante de Ciência e Tecnologia
 🌐 Focado atualmente em Desenvolvimento Web
