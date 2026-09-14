@@ -1,294 +1,247 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:238636&text=Luis%20Felipe%20Reis&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Front-end%20%7C%20Estudante%20de%20Engenharia%20da%20Computa%C3%A7%C3%A3o&descAlignY=58&descSize=18"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-end+em+constante+evolu%C3%A7%C3%A3o;Transformando+ideias+em+interfaces+web;HTML+%7C+CSS+%7C+JavaScript+%7C+Git;Aprendendo.+Construindo.+Evoluindo." />
+<a href="https://github.com/luisfelipereis205">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Luis%20Felipe%20Reis&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Front-end%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=68&descSize=17&descColor=8b949e"/>
+</a>
 
 <br>
 
 <a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/luisfelipereis205">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff"/>
 </a>
-
-</div>
-
----
-
-# 👨‍💻 Sobre mim
-
-Olá! Eu sou **Luis Felipe**, **Desenvolvedor Front-end** e estudante de **Engenharia da Computação**.
-
-Meu foco atual está no desenvolvimento de interfaces web modernas, responsivas e funcionais.
-
-Gosto de transformar ideias em projetos reais e utilizar cada projeto como uma oportunidade para aprender algo novo.
-
-Atualmente estou aprofundando meus conhecimentos em **HTML, CSS, JavaScript, Git e GitHub**, enquanto continuo construindo minha base em programação e tecnologia.
-
-```text
-💻 Front-end
-🎓 Engenharia da Computação
-🌐 Desenvolvimento Web
-🧠 Lógica de Programação
-🚀 Projetos práticos
-📚 Aprendizado contínuo
-```
-
----
-
-# ⚡ Atualmente
-
-<div align="center">
-
-| 💻 Desenvolvimento | 📚 Aprendizado |       🚀 Objetivo      |
-| :----------------: | :------------: | :--------------------: |
-|      Front-end     |   JavaScript   |    Projetos maiores    |
-|   Interfaces Web   |  Git & GitHub  | Portfólio profissional |
-|   Responsividade   |     Lógica     |   Evolução constante   |
-
-</div>
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### 🎨 Front-end
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-<br><br>
-
-### 🐍 Programação
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<br><br>
-
-### 🔧 Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</div>
-
----
-
-# 🚀 Projetos
-
-<div align="center">
-
-### 💈 Menor Barbearia
-
-**Landing page desenvolvida para praticar construção de interfaces, tipografia, cores e responsividade.**
-
-`HTML` `CSS`
-
-<a href="SEU_LINK">
-<img src="https://img.shields.io/badge/VER%20PROJETO-238636?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-### 🏝️ Slider Turístico
-
-**Interface interativa para apresentação de destinos turísticos, trabalhando cards, imagens, responsividade e interação.**
-
-`HTML` `CSS` `JavaScript`
-
-<a href="SEU_LINK">
-<img src="https://img.shields.io/badge/VER%20PROJETO-238636?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-### ⚖️ Calculadora de Peso Ideal
-
-**Projeto desenvolvido para praticar JavaScript, entrada de dados, cálculos e manipulação do DOM.**
-
-`HTML` `CSS` `JavaScript`
-
-<a href="SEU_LINK">
-<img src="https://img.shields.io/badge/VER%20PROJETO-238636?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-### 📝 CRUD de Tarefas
-
-**Sistema desenvolvido para praticar operações de criação, leitura, atualização e exclusão de dados.**
-
-`PHP` `MySQL` `Bootstrap`
-
-<a href="SEU_LINK">
-<img src="https://img.shields.io/badge/VER%20PROJETO-238636?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 📚 Atualmente estudando
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-Em%20aprofundamento-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML%20%26%20CSS-Desenvolvimento-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-Pr%C3%A1tica-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-Estudando-3776AB?style=for-the-badge"/>
 
 </div>
 
 <br>
 
-```text
-HTML / CSS
-████████████████████░░
+## About
 
+I'm **Luis Felipe**, a **Front-end Developer** and **Computer Engineering student** focused on building modern, responsive and accessible web interfaces.
+
+I enjoy turning ideas into interfaces and learning through practical projects. My current focus is strengthening my JavaScript skills and building a solid foundation for professional development.
+
+```text
+Front-end Development
+JavaScript & DOM
+Responsive Interfaces
+Git & GitHub
+Programming Fundamentals
+```
+
+---
+
+## Stack
+
+<div align="center">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="30" alt="HTML5"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://cdn.simpleicons.org/css/1572B6" width="30" alt="CSS3"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" alt="JavaScript"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.python.org/">
+<img src="https://cdn.simpleicons.org/python/3776AB" width="30" alt="Python"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://git-scm.com/">
+<img src="https://cdn.simpleicons.org/git/F05032" width="30" alt="Git"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/">
+<img src="https://cdn.simpleicons.org/github/ffffff" width="30" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/">
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="30" alt="VS Code"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+`HTML5` · `CSS3` · `JavaScript` · `Python` · `Git` · `GitHub` · `VS Code`
+
+</div>
+
+---
+
+## Featured projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### Menor Barbearia
+
+A responsive landing page created to practice visual hierarchy, typography, color systems and responsive layouts.
+
+**HTML · CSS**
+
+<a href="SEU_LINK_MENOR_BARBEARIA">
+View project →
+</a>
+
+</td>
+
+<td width="50%">
+
+### Slider Turístico
+
+An interactive travel interface focused on cards, image presentation, responsive behavior and JavaScript interactions.
+
+**HTML · CSS · JavaScript**
+
+<a href="SEU_LINK_SLIDER">
+View project →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### Calculadora de Peso Ideal
+
+A simple web application created to practice JavaScript logic, user input, calculations and DOM manipulation.
+
+**HTML · CSS · JavaScript**
+
+<a href="SEU_LINK_PESO_IDEAL">
+View project →
+</a>
+
+</td>
+
+<td width="50%">
+
+### CRUD de Tarefas
+
+Application created to practice data management and CRUD operations.
+
+**PHP · MySQL · Bootstrap**
+
+<a href="SEU_LINK_CRUD">
+View project →
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Currently learning
+
+<div align="center">
+
+| Technology      | Focus                                    |
+| :-------------- | :--------------------------------------- |
+| JavaScript      | DOM, events, functions and modern syntax |
+| CSS             | Responsive layouts, Flexbox and Grid     |
+| Git             | Branches, commits and workflow           |
+| JavaScript APIs | Working with external data               |
+| Front-end       | Building complete interfaces             |
+
+</div>
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=luisfelipereis205&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipereis205&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=luisfelipereis205&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
+
+</div>
+
+---
+
+## Education
+
+**Computer Engineering**
+
+Currently building my academic foundation in computing, programming and software development while focusing professionally on Front-end Development.
+
+---
+
+## Roadmap
+
+```text
 JavaScript
-███████████████░░░░░░
-
-Git / GitHub
-███████████████░░░░░░
-
-Python
-████████████░░░░░░░░
-
-Lógica
-████████████████░░░░
-```
-
-> As barras representam apenas uma visualização dos assuntos em estudo e não uma porcentagem formal de domínio.
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=luisfelipereis205&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipereis205&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=luisfelipereis205&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Minha atividade no GitHub
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🎯 Roadmap
-
-```text
-                    FRONT-END
-                        │
-        ┌───────────────┼───────────────┐
-        │               │               │
-        ▼               ▼               ▼
-      HTML             CSS        JavaScript
-        │               │               │
-        └───────────────┼───────────────┘
-                        │
-                        ▼
-                       DOM
-                        │
-                        ▼
-                      APIs
-                        │
-                        ▼
-                  Framework Front-end
-                        │
-                        ▼
-                  Projetos maiores
-                        │
-                        ▼
-                  MERCADO DE TRABALHO
+    │
+    ├── DOM & Events
+    ├── ES6+
+    ├── APIs
+    └── Async JavaScript
+           │
+           ▼
+    Front-end Framework
+           │
+           ▼
+    Larger Applications
+           │
+           ▼
+    Professional Development
 ```
 
 ---
 
-# 🎯 Próximos objetivos
-
-* [ ] Aprofundar JavaScript
-* [ ] Dominar manipulação do DOM
-* [ ] Trabalhar com APIs
-* [ ] Melhorar acessibilidade
-* [ ] Criar interfaces cada vez mais responsivas
-* [ ] Aprender um framework front-end
-* [ ] Desenvolver projetos maiores
-* [ ] Aprofundar Git e GitHub
-* [ ] Construir um portfólio profissional
-* [ ] Evoluir como desenvolvedor
-
----
-
-# 💡 Como estou evoluindo
-
-<div align="center">
-
-```text
-        📚 ESTUDAR
-            ↓
-        🧠 ENTENDER
-            ↓
-        💻 PRATICAR
-            ↓
-        🛠️ CONSTRUIR
-            ↓
-        🐛 ERRAR
-            ↓
-        🔎 PESQUISAR
-            ↓
-        💡 APRENDER
-            ↓
-        🚀 EVOLUIR
-            ↺
-```
-
-</div>
-
----
-
-# 📫 Conecte-se comigo
+## Contact
 
 <div align="center">
 
 <a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-58a6ff?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
+
+ 
 
 <a href="https://github.com/luisfelipereis205">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-30363d?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=luisfelipereis205&label=VISITAS%20AO%20PERFIL&color=238636&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=luisfelipereis205&style=flat-square&label=profile+views&color=58a6ff"/>
 
 <br><br>
 
-### `> Transformando código em experiências.`
+<sub>Building interfaces. Learning every day.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:238636,50:161B22,100:0D1117"/>
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
+
+</div>
