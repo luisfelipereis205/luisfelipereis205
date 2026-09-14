@@ -168,9 +168,7 @@ Também estudo **Python** como parte da minha formação em programação.
 
 <div align="center">
 
-### Engenharia da Computação
-
-**Universidade Federal do Maranhão — UFMA**
+### Desenvolvedor Front-End
 
 <br>
 
