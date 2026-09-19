@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Luis%20Felipe&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Front-end%20Developer%20%7C%20Computer%20Engineering&descAlignY=67&descSize=16&descColor=9CA3AF&color=0D1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Luis%20Felipe&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Front-end%20Developer%20%7C%20Web%20Development&descAlignY=67&descSize=16&descColor=9CA3AF&color=0D1117"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### Desenvolvedor Front-end
 
-Construo interfaces web e transformo ideias em experiências digitais.
+Desenvolvo interfaces web com foco em **HTML, CSS e JavaScript**, transformando ideias em páginas funcionais, responsivas e organizadas.
 
 <br>
 
@@ -28,27 +28,23 @@ Construo interfaces web e transformo ideias em experiências digitais.
 
 <div align="center">
 
-## `Front-end`
+## `Tecnologias`
 
-**HTML5**  ·  **CSS3**  ·  **JavaScript**
+**HTML5** · **CSS3** · **JavaScript**
 
 <br>
 
 <sub>
-Responsividade · Flexbox · Grid · DOM · Formulários · Acessibilidade
+Semântica · Responsividade · Flexbox · Grid · DOM · Eventos · Formulários · Acessibilidade
 </sub>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="30" alt="HTML5">
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="32" alt="HTML5">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css/1572B6" width="30" alt="CSS3">
+<img src="https://cdn.simpleicons.org/css/1572B6" width="32" alt="CSS3">
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="30" alt="JavaScript">
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" alt="JavaScript">
 
 </div>
 
@@ -60,11 +56,11 @@ Responsividade · Flexbox · Grid · DOM · Formulários · Acessibilidade
 <tr>
 <td width="50%" valign="top">
 
-### Menor Barbearia
+### 💈 Menor Barbearia
 
-Uma landing page criada para uma barbearia, desenvolvida com identidade visual própria.
+Landing page desenvolvida para uma barbearia, com identidade visual própria e foco em apresentação de serviços.
 
-O projeto trabalha composição, tipografia, cores, estrutura semântica e responsividade.
+O projeto utiliza estrutura semântica, tipografia, composição visual, cores, responsividade e componentes de interface.
 
 **HTML5 · CSS3**
 
@@ -78,11 +74,11 @@ O projeto trabalha composição, tipografia, cores, estrutura semântica e respo
 
 <td width="50%" valign="top">
 
-### Slider Turístico
+### 🌎 Slider Turístico
 
-Interface para apresentação de destinos turísticos utilizando navegação e elementos visuais.
+Interface para apresentação de destinos turísticos com navegação entre diferentes locais.
 
-Projeto desenvolvido para praticar layouts responsivos e interatividade no navegador.
+Projeto desenvolvido para praticar **layout responsivo, organização visual e interatividade com JavaScript**.
 
 **HTML5 · CSS3 · JavaScript**
 
@@ -98,9 +94,11 @@ Projeto desenvolvido para praticar layouts responsivos e interatividade no naveg
 <tr>
 <td width="50%" valign="top">
 
-### Calculadora de Peso Ideal
+### ⚖️ Calculadora de Peso Ideal
 
-Aplicação web para praticar lógica de programação, formulários e manipulação do DOM.
+Aplicação web desenvolvida para praticar formulários, lógica de programação e manipulação do DOM.
+
+O usuário fornece seus dados e a aplicação realiza o cálculo e apresenta o resultado dinamicamente.
 
 **HTML5 · CSS3 · JavaScript**
 
@@ -114,9 +112,9 @@ Aplicação web para praticar lógica de programação, formulários e manipula�
 
 <td width="50%" valign="top">
 
-### Mais projetos
+### 📂 Mais projetos
 
-Meu repositório reúne exercícios e projetos desenvolvidos durante minha evolução no desenvolvimento web.
+Meu GitHub reúne projetos, exercícios e experimentos desenvolvidos durante minha evolução em **desenvolvimento web e programação**.
 
 <br>
 
@@ -132,15 +130,21 @@ Meu repositório reúne exercícios e projetos desenvolvidos durante minha evolu
 
 ---
 
-## O que estou construindo agora
+## 🚀 Atualmente
 
-Estou aprofundando minha base em **JavaScript**, principalmente:
+Estou aprofundando meus conhecimentos em **JavaScript**, principalmente:
 
-`DOM` · `Eventos` · `Funções` · `Lógica` · `Interação`
+`DOM` · `Eventos` · `Funções` · `Arrays` · `Objetos` · `Lógica de Programação`
 
-Ao mesmo tempo, continuo evoluindo meus conhecimentos de **HTML e CSS**, buscando escrever interfaces mais organizadas, responsivas e acessíveis.
+Também continuo evoluindo minha base em **HTML e CSS**, buscando desenvolver interfaces:
 
-Também estudo **Python** como parte da minha formação em programação.
+* Responsivas
+* Semânticas
+* Acessíveis
+* Bem estruturadas
+* Mais próximas de projetos reais
+
+Meu próximo objetivo é ampliar meus conhecimentos em **JavaScript e tecnologias modernas do ecossistema Front-end**.
 
 <br>
 
@@ -148,17 +152,19 @@ Também estudo **Python** como parte da minha formação em programação.
 
 <div align="center">
 
-## Ferramentas
+## 🛠️ Ferramentas
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="27" alt="Python">
+<img src="https://cdn.simpleicons.org/git/F05032" width="28" alt="Git">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git/F05032" width="27" alt="Git">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" alt="GitHub">
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="27" alt="GitHub">
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="28" alt="VS Code">
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/python/3776AB" width="28" alt="Python">
 
 <br><br>
 
-<sub>Python · Git · GitHub · VS Code</sub>
+<sub>Git · GitHub · VS Code · Python</sub>
 
 </div>
 
@@ -168,17 +174,21 @@ Também estudo **Python** como parte da minha formação em programação.
 
 <div align="center">
 
-### Desenvolvedor Front-End
+## Sobre mim
+
+Estudante de **Ciência e Tecnologia**, interessado em desenvolvimento web e construção de interfaces.
+
+Atualmente direciono meus estudos para **Front-end**, desenvolvendo projetos práticos e fortalecendo minha base em programação.
 
 <br>
 
-<sub>
-Estudando computação, desenvolvendo projetos e construindo minha carreira em tecnologia.
-</sub>
+**HTML · CSS · JavaScript · Git · GitHub**
 
 </div>
 
 <br>
+
+---
 
 <div align="center">
 
