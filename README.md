@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assests/img3.jpg" width="85%" alt="Banner artístico de Luis Felipe"/>
+
 # Luis Felipe Reis
 
 ### Desenvolvedor Front-End · Estudante de Engenharia da Computação
@@ -51,6 +53,48 @@ Desenvolver projetos práticos para aplicar os conhecimentos adquiridos.
 Explorar novas tecnologias e boas práticas de desenvolvimento de software.
 
 Criar soluções digitais que sejam úteis e façam a diferença na vida das pessoas.
+
+### Projetos em destaque
+
+Estou construindo minha jornada na programação por meio de estudos, experimentos e projetos práticos.
+
+### 🌴 Slider Turístico
+
+<div align="center">
+
+<a href="https://luisfelipereis205.github.io/slider-turismo/">
+  <img src="assests/projeto1.png" width="85%" alt="Slider Turístico"/>
+</a>
+
+<br><br>
+
+<samp>FRONT-END · INTERACTIVE DESIGN</samp>
+
+Uma experiência visual para explorar destinos turísticos por meio de um slider interativo, trabalhando apresentação de imagens, navegação e adaptação para diferentes tamanhos de tela.
+
+<br>
+
+</div>
+
+### ⚖️ Calculadora de Peso Ideal
+
+<div align="center">
+
+<a href="https://calculadorapesoid.netlify.app/">
+  <img src="assests/projeto2.png" width="85%" alt="Calculadora de Peso Ideal"/>
+</a>
+
+<br><br>
+
+<samp>JAVASCRIPT · FORMULÁRIOS · LÓGICA</samp>
+
+<br><br>
+
+Aplicação web interativa criada para praticar entrada de dados, manipulação de elementos e lógica de programação com JavaScript.
+
+<br>
+
+
 
 ---
 
